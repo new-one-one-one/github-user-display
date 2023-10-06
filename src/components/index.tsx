@@ -108,7 +108,7 @@ export const GitHubUserDisplay: React.FC = () => {
 
       setUsers(sortedUsers);
     }
-  }, [completedUsers, followers, users]);
+  }, [completedUsers, followers]);
 
   return (
     <>
