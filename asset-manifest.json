@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/new-one-one-one.io/github-user-display/static/css/main.09d16ec1.css",
+    "main.js": "/new-one-one-one.io/github-user-display/static/js/main.14c7289b.js",
+    "static/js/787.846bba44.chunk.js": "/new-one-one-one.io/github-user-display/static/js/787.846bba44.chunk.js",
+    "index.html": "/new-one-one-one.io/github-user-display/index.html",
+    "main.09d16ec1.css.map": "/new-one-one-one.io/github-user-display/static/css/main.09d16ec1.css.map",
+    "main.14c7289b.js.map": "/new-one-one-one.io/github-user-display/static/js/main.14c7289b.js.map",
+    "787.846bba44.chunk.js.map": "/new-one-one-one.io/github-user-display/static/js/787.846bba44.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.09d16ec1.css",
+    "static/js/main.14c7289b.js"
+  ]
+}
