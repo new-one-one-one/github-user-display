@@ -30,7 +30,7 @@ export const GitHubUserDisplay: React.FC = () => {
     axios
       .get(`https://api.github.com/search/users?q=${searchQuery}`, {
         headers: {
-          Authorization: "token " + "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",
+          Authorization: "token " + process.env.REACT_APP_GITHUB_TOKEN,
         },
         cancelToken: source.token,
       })
@@ -67,7 +67,7 @@ export const GitHubUserDisplay: React.FC = () => {
           {
             headers: {
               Authorization:
-                "token " + "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",
+                "token " + process.env.REACT_APP_GITHUB_TOKEN,
             },
             cancelToken,
           },
