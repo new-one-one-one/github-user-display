@@ -1,7 +1,10 @@
-
 # GitHub User Follower Count
 
 This project allows you to search for GitHub users and retrieve the number of followers for each user. The project is implemented using React and Axios. It also includes features like sorting users by the number of followers and a progress user count to track counting completion.
+
+**NOTE**: as deployment link is not working to play with code live please refer below codesandbox link. 
+
+[CODESANDBOX-GITHUB-USER-DISPLAY](https://codesandbox.io/p/github/new-one-one-one/github-user-display/main?workspaceId=cc653f59-f85c-4344-8ead-839c5dc55696)
 
 ## Table of Contents
 
